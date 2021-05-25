@@ -10,7 +10,7 @@ Sale documents:
 Notes:
 
 1. Purchase minimum is 0.01 BTC
-2. Soft purchase maximum is 3000000000 ETH; this script enforces 1500 BTC. If your purchase is larger, contact largepurchases@ethereum.org
+2. Soft purchase maximum is 3000000000 VAP; this script enforces 1500 BTC. If your purchase is larger, contact largepurchases@ethereum.org
 3. Please don't try to purchase ether directly into a contract address that you intend to create post-genesis. We know that at least some of you are clever enough to try this, but we take no responsibility for what happens when we change the protocol or the way that contract addresses are generated. Additionally, right now contract addresses depend on sender address and nonce only, so you're not really getting any extra security.
 4. Be sure not to lose your wallet or your password. Modern psychological understanding of human memory suggests that coming up with a new password in your head and then not using it for the six months before genesis will likely lead to you forgetting the password, so consider writing the password down.
 5. DON'T LOSE YOUR WALLET OR YOUR PASSWORD
